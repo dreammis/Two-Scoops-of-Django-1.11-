@@ -14,5 +14,11 @@
   * [Front编码规约](bian-ma-gui-yue/Choose JS,HTML,and CSS Style Guides.md)
 * [开始之前的准备](The Optimal Django Environment Setup.md)
   * [使用相同的数据库引擎](The Optimal Django Environment Setup/Use The Same Database Engine Everywhere.md)
+  * [使用pip以及virtualenv](The Optimal Django Environment Setup/Use pip and virtualenv.md)
+* [如何构建你的Django项目](How-To-Lay_Out-Django-Projects.md)
+  * [默认的Django工程结构](How-To-Lay_Out-Django-Projects/Django-Default-Project-Layout.md)
+  * [推荐的Django工程结构](How-To-Lay_Out-Django-Projects/OurPreferredProjectLayout.md)
+  * [举个栗子](How-To-Lay_Out-Django-Projects/Sample-Project-Layout.md)
+
 
 
