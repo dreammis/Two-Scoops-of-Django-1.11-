@@ -7,4 +7,12 @@
 * [编码规约](bian-ma-gui-yue.md)
   * [代码可读性的重要性](bian-ma-gui-yue/dai-ma-ke-du-xing-de-zhong-yao-xing.md)
   * [PEP8](bian-ma-gui-yue/pep8.md)
+  * [Import](bian-ma-gui-yue/The Word on Imports.md)
+  * [使用相对导入](bian-ma-gui-yue/Use Explicit Relative Imports.md)
+  * [避免使用import *](bian-ma-gui-yue/Avoid Using Import Everything.md)
+  * [Django编码规约](bian-ma-gui-yue/Django Coding Style.md)
+  * [Front编码规约](bian-ma-gui-yue/Choose JS,HTML,and CSS Style Guides.md)
+* [开始之前的准备](The Optimal Django Environment Setup.md)
+  * [使用相同的数据库引擎](The Optimal Django Environment Setup/Use The Same Database Engine Everywhere.md)
+
 
