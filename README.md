@@ -6,9 +6,7 @@
 
 [英文原版地址](/英文原版地址 "https://www.twoscoopspress.com/products/two-scoops-of-django-1-11\")
 
-
-
-[/阅读地址](/阅读地址 "https://dreammis.gitbooks.io/two-scoops-of-django-1-11/content/")
+\(阅读地址\)\[https://dreammis.gitbooks.io/two-scoops-of-django-1-11/content/\]
 
 ## 
 
