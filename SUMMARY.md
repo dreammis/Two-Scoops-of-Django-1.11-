@@ -19,6 +19,9 @@
   * [默认的Django工程结构](How-To-Lay_Out-Django-Projects/Django-Default-Project-Layout.md)
   * [推荐的Django工程结构](How-To-Lay_Out-Django-Projects/OurPreferredProjectLayout.md)
   * [举个栗子](How-To-Lay_Out-Django-Projects/Sample-Project-Layout.md)
+  * [Virtualenv](How-To-Lay_Out-Django-Projects/What AbouttheVirtualenv.md)
+  * [Cookiecutter](How-To-Lay_Out-Django-Projects/Cookiecutter.md)
+
 
 
 
