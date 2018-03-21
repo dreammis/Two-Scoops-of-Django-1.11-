@@ -24,6 +24,17 @@ thing and do it well.”’
 
 作者举例依然是一个冰激凌商店，一个叫"Two Scoops"的ice cream shop..
 
-- flavors app 
+- flavors app 用于存储所有冰激凌的特点，列举他们到站点
+- blog app Two Scoops的博客
+- events app 展示列举商店中的各种事情，注入什么活动啦，什么感恩节之类的
 
- 
+三个app可以互有关联，blog和events可以展示冰激凌的各种种类，特点，这样比everything在同一个app要好的多
+
+将来拓展：
+- shop app 商店的app，可以售卖各种冰激凌
+- tickets app 票务的app， 可以
+
+还是那个原则，一个app就干一个事儿，干到极致，有时候可以用面向对象的方式来思考。
+
+## 怎么给孩子起名字
+
