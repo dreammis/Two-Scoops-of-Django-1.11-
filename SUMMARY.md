@@ -21,7 +21,9 @@
   * [举个栗子](How-To-Lay_Out-Django-Projects/Sample-Project-Layout.md)
   * [Virtualenv](How-To-Lay_Out-Django-Projects/What AbouttheVirtualenv.md)
   * [Cookiecutter](How-To-Lay_Out-Django-Projects/Cookiecutter.md)
-
+* [Django app的设计原则](Fundamentals-of-Django-App.md)
+* [Settings和Requirement](Settings-And-Requirements-Files.md)
+* [Django Model](Model-Best-Practices.md)
 
 
 
